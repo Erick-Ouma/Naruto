@@ -99,10 +99,10 @@ let m2 = `
 ▢ .demote (@tag)
 ▢ .infogp
 ▢ .hidetag
-▢ .invite <917xxx>
+▢ .invite <254xxx>
 ▢ .kick @user
 ▢ .link
-▢ .poll <Guru|piro|xd>
+▢ .poll <Naruto|Uzumaki|xd>
 ▢ .perfil
 ▢ .promote
 ▢ .resetlink
@@ -219,13 +219,13 @@ let m2 = `
 ▢ $
 └───────────  
 
-Bot has more than 300 commands and i am lazy to write all
+Bot has more than 300 commands and i am lazy too write all
 `
 //const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
-    let pp = './Guru.jpg' 
-    conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, [
+    let pp = './Naruto.jpg' 
+    conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/donbel_ovibel\n', pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
-      ['⌬ Groups', `${usedPrefix}gpguru`]
+      ['⌬ Groups', `${usedPrefix}gpnaruto`]
     ],m, rpyt)
    
 }
