@@ -4,7 +4,9 @@
 
 ## `Scan QR Code For Session`
 # CLICK HERE BELOW  FOR SESSION 
-[![Jake BOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mohalicious/NarutoScanner?s=app)
+[![Naruto BOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mohalicious/NarutoScanner?s=app)
+
+# Upload naruto.data.json file the tap the heroku button.
 
 ## ` BUILDPACKS`
 
